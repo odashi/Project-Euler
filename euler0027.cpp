@@ -36,7 +36,6 @@ int main(void)
 					x++;
 				if (x-1 > maxx)
 					maxx = x-1, prod = -a*b;
-				x = 1;
 			}
 		}
 	}
