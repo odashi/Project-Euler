@@ -1,3 +1,7 @@
+// utils.cpp
+// よく使うかもしれない関数をまとめたもの。
+// 必要に応じて、各問題のソースにコピーして使う。
+
 // 素数判定
 #include <cmath>
 using namespace std;
